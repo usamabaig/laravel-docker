@@ -1,9 +1,3 @@
-<p align="center">
-    <img src="/.github/home-page-images/laradock-logo.jpg?raw=true" alt="Laradock Logo"/>
-</p>
-
----
-
 <p align="center"><b>Full PHP development environment based on Docker.</b></p>
 
 <p align="center">Supporting a variety of common services, all pre-configured to provide a full PHP development environment.</p>
